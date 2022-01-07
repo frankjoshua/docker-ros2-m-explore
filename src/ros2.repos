@@ -4,7 +4,7 @@
 # Example:
 ############
 repositories:
-  examples:
+  m-explore:
     type: git
-    url: https://github.com/ros2/examples.git
-    version: galactic
+    url: https://github.com/robo-friends/m-explore-ros2.git
+    version: main
